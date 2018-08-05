@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+
+.main-container {
+	min-height: 300px;
+	margin-bottom: 100px;
+}
+
+
+.img-main-carousel {
+	max-height: 500px;
+	margin: auto;
+
+}
+
+.carousel-control-right {
+	cursor: pointer;
+}
+
+.carousal-control-left {
+	cursor: pointer;
+}
+
+.search-inline .navbar-left{
+	float: none !important;
+}
+
+.img-center {
+	margin: 0 auto;
+}
